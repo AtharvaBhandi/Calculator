@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 A powerful javascript calculator
 This calculator has 
 
